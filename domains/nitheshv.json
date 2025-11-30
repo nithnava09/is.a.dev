@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "your-github-username",
+    "email": "your-email@example.com"
+  },
+  "record": {
+    "CNAME": "d22fu8lqmgob5h.cloudfront.net"
+  }
+}
